@@ -1,0 +1,10 @@
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\bin\Debug\HardwareViewer.exe.config
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\bin\Debug\HardwareViewer.exe
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\bin\Debug\HardwareViewer.pdb
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\obj\x86\Debug\HardwareViewer.csprojResolveAssemblyReference.cache
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\obj\x86\Debug\HardwareViewer.Loading.resources
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\obj\x86\Debug\HardwareViewer.MainForm.resources
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\obj\x86\Debug\HardwareViewer.Properties.Resources.resources
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\obj\x86\Debug\HardwareViewer.csproj.GenerateResource.Cache
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\obj\x86\Debug\HardwareViewer.exe
+C:\Users\ismdeep\Documents\GitHub\HardwareViewer\HardwareViewer\obj\x86\Debug\HardwareViewer.pdb
